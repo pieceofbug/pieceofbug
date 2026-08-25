@@ -8,7 +8,10 @@ I love turning ideas into reality—if something sparks in my mind, I immediatel
 ### **Backend**
 - Java | Spring Boot  
 - Python  
+- Docker
 - Linux & Server Environments
+- Arch Linux/Debian Distros
+- PostgreSQL
 
 ### **Frontend**
 - JavaScript  
@@ -18,11 +21,13 @@ I love turning ideas into reality—if something sparks in my mind, I immediatel
 Although my passion is backend development and Linux environments, I am fully capable of delivering complete full-stack applications end-to-end.
 
 ## 🎮 About Me
+- I'm from Brazil.
+- English is my second language.
 - I enjoy transforming complex problems into elegant, maintainable systems.  
 - I constantly study software engineering, architecture, and OOP.  
-- I also run an English-only YouTube channel: **PieceofBug** — focused on coding, learning, and growth.
+- I also run an English-only YouTube channel: **[PieceofBug](https://www.youtube.com/@pieceofbug)** — focused on coding, learning, and growth.
 
 ## 📫 Let's Connect
-- **YouTube:** PieceofBug  
+- **YouTube:** [PieceofBug](https://www.youtube.com/@pieceofbug)
 - **GitHub:** You are already here  
 - **Always open to collaborations, learning, and building cool products**
